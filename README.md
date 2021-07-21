@@ -10,3 +10,6 @@ Microsserviços são uma abordagem de arquitetura para a criação de aplicaçõ
 - Config Server: O Config Server é um serviço de configuração de aplicativo externalizado que fornece um servidor centralizado para fornecer propriedades de configuração externa para um aplicativo e uma fonte central para gerenciar essa configuração em ambientes de implantação. 
 - Service Discovery: Tem o catálogo de serviços, sabe quais serviços estão respondendo, qual porta. A aplicação spring foi composta de: Gradle Project, Java, Spring Boot 2.2.6, Packaging: Jar, Java: 8, Dependencies: Eureka Server, Config Client.
 - Gateway: Um Gateway, ou porta de ligação, é uma máquina intermediária geralmente destinada a interligar redes, separar domínios de colisão, ou mesmo traduzir protocolos. A aplicação spring foi composta de: Gradle Project, Java, Spring Boot 2.2.6, Packaging: Jar, Java: 8, Dependencies: Spring Boot Actuator, Gateway, Config Client. 
+
+## Para rodar o projeto:
+>gradle bootRun

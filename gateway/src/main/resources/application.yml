@@ -1,0 +1,10 @@
+# cada serviço precisa rodar em uma porta diferente
+spring:
+  application:
+    name: gateway
+
+  cloud:
+    config:
+      uri: http://localhost:8888
+
+

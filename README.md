@@ -18,3 +18,15 @@ Microsserviços são uma abordagem de arquitetura para a criação de aplicaçõ
 
 ## Para rodar o projeto:
 >gradle bootRun
+
+## Dicas
+- O que é um Microsserviços? É uma arquitetura de software.
+- Qual é a dependência do Spring Framework utilizada para prover abstrações de acesso a dados com Redis? Spring Data Redis.
+- Qual é a função do Spring Boot Actuator? Inclui uma série de endpoints para o monitoramento de aplicações Spring Boot, como por exemplo o “/actuator/health” para operação de health check.
+- Qual é a dependência do Spring Framework utilizada para prover abstrações de acesso a dados com Elasticsearch? Spring Data Elasticsearch.
+- Qual das opções a seguir apresenta um conjunto de conceitos essenciais em arquiteturas baseadas em microsserviços? Config Server, Service Discover e Gateway
+- Em que contextos a arquitetura baseada em microsserviços é adequada? Aplicações em que os domínios possam ser negocialmente isolados, criando assim microsserviços com responsabilidades bem definidas e individualmente escaláveis.
+- Qual é a função de um Gateway em uma arquitetura baseada em microsserviços? Encapsular a(s) arquitetura(s) da solução e fornecer uma interface de uso para clientes externos. Nesse contexto, pode ter outras responsabilidades, como autenticação, monitoramento e balanceamento de carga.
+- Qual é a finalidade do Spring Initializr? Prover uma interface Web para simplificar a configuração e criação de aplicações Spring Boot.
+- Qual é a função de um Service Discovery em uma arquitetura baseada em microsserviços? Gerenciar o status e a localização dos microsserviços de um ecossistema. Para isso, os microsserviços devem se registrar individualmente no Service Discovery.
+- Qual é a função de um Config Server em uma arquitetura baseada em microsserviços? Solução com a responsabilidade de centralizar e expor as configurações dos microsserviços de um ecossistema, as quais podem ser armazenadas em um repositório Git.

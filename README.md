@@ -30,3 +30,7 @@ Microsserviços são uma abordagem de arquitetura para a criação de aplicaçõ
 - Qual é a finalidade do Spring Initializr? Prover uma interface Web para simplificar a configuração e criação de aplicações Spring Boot.
 - Qual é a função de um Service Discovery em uma arquitetura baseada em microsserviços? Gerenciar o status e a localização dos microsserviços de um ecossistema. Para isso, os microsserviços devem se registrar individualmente no Service Discovery.
 - Qual é a função de um Config Server em uma arquitetura baseada em microsserviços? Solução com a responsabilidade de centralizar e expor as configurações dos microsserviços de um ecossistema, as quais podem ser armazenadas em um repositório Git.
+- Quais são as técnicas utilizadas para gerar casos de testes? Partição por Equivalência, Análise do Valor Limite, Tabela de Decisão, Teste por Transição de Estados.
+- Quais itens deve ter em uma evidência de teste de sucesso? Print do resultado esperado, nome ou id do caso de teste, data da execução, versão do sistema realizado e ciclo de teste.
+- O que é teste de software? É um processo que faz parte do ciclo de vida do software e tem como principal objetivo avaliar a qualidade e reduzir risco de falha no software em operação.
+- Quanto pode custar um Bug (hipoteticamente)? Corrigir o defeito na fase de engenharia custa 1 e na fase de produção 100 vezes mais.

@@ -34,3 +34,9 @@ Microsserviços são uma abordagem de arquitetura para a criação de aplicaçõ
 - Quais itens deve ter em uma evidência de teste de sucesso? Print do resultado esperado, nome ou id do caso de teste, data da execução, versão do sistema realizado e ciclo de teste.
 - O que é teste de software? É um processo que faz parte do ciclo de vida do software e tem como principal objetivo avaliar a qualidade e reduzir risco de falha no software em operação.
 - Quanto pode custar um Bug (hipoteticamente)? Corrigir o defeito na fase de engenharia custa 1 e na fase de produção 100 vezes mais.
+
+## Sobre a Autora
+Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
+
